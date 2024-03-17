@@ -1,2 +1,2 @@
 # GazeGCN
-The code will be release soon.
+The code will be released soon.
